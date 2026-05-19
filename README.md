@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<img width="180" src="https://avatars.githubusercontent.com/u/583231?v=4" style="border-radius:50%;" />
+<img width="180" src="https://avatars.githubusercontent.com/u/583231?v=4"/>
 
 # <span style="color:#F5EFFF;">Artur Ahadzhanov</span>
 
@@ -106,7 +106,7 @@ Experience building production-grade platforms for FinTech, EdTech and Retail pr
 
 # <span style="color:#F5EFFF;">Current Focus</span>
 
-```python
+```python id="nvv93q"
 class Engineer:
 
     backend = [
@@ -141,17 +141,9 @@ class Engineer:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedroleite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedroleite&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroleite&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=opedroleite&theme=radical&hide_border=true&background=0D1117&stroke=C084FC&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroleite&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -159,7 +151,17 @@ class Engineer:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=opedroleite&bg_color=0D1117&color=C084FC&line=A855F7&point=E9D5FF&area=true&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=opedroleite&theme=radical&hide_border=true"/>
+
+</div>
+
+<br/>
+
+# <span style="color:#C084FC;">Artur's Contribution Graph</span>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=opedroleite&theme=react-dark&hide_border=true"/>
 
 </div>
 
