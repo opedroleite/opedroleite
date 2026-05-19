@@ -20,29 +20,35 @@
 
 <table>
 <tr>
-<td width="35%">
+<td width="35%" valign="top">
 
 <div align="center">
 
 <img width="180" src="https://avatars.githubusercontent.com/u/583231?v=4" style="border-radius:50%;" />
 
-# <span style="color:#E9D5FF;">Artur Ahadzhanov</span>
+# <span style="color:#F5EFFF;">Artur Ahadzhanov</span>
 
-### <span style="color:#C084FC;">React / Next.js Engineer</span>
+### <span style="color:#C084FC;">Full-Stack Engineer</span>
 
 </div>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AWS-Certified-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/6%2B%20Years-Experience-9333EA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Open%20to-Remote-C084FC?style=for-the-badge&logoColor=140021"/>
+<img src="https://img.shields.io/badge/Django-7C3AED?style=for-the-badge&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Next.js-A855F7?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+
+</div>
 
 ---
 
 ### <span style="color:#D8B4FE;">Connect</span>
+
+<p align="left">
 
 <a href="https://github.com/opedroleite">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -52,39 +58,45 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
+</p>
+
 ---
 
 <div align="center">
 
-> ### <span style="color:#C084FC;">Building scalable products with clean architecture.</span>
+> <span style="color:#C084FC;">Building scalable products with clean architecture.</span>
 
 </div>
 
 </td>
 
-<td width="65%">
+<td width="65%" valign="top">
 
-# <span style="color:#E9D5FF;">About Me</span>
+# <span style="color:#F5EFFF;">About</span>
 
 <div style="color:#D8B4FE;">
 
-Full-Stack Engineer focused on backend architecture, scalable APIs and modern frontend systems.
+Full-Stack Engineer focused on scalable backend systems, high-performance APIs and modern frontend architecture.
 
-Experience building FinTech, EdTech and Retail products for EU and US teams using Python, FastAPI, Django, React and Next.js.
+Experience building production-grade platforms for FinTech, EdTech and Retail products across EU and US teams.
 
 </div>
 
 ---
 
-# <span style="color:#E9D5FF;">Tech Stack</span>
+# <span style="color:#F5EFFF;">Tech Stack</span>
 
 ### <span style="color:#C084FC;">Backend</span>
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,mongodb"/>
 
+<br/><br/>
+
 ### <span style="color:#C084FC;">Frontend</span>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind"/>
+
+<br/><br/>
 
 ### <span style="color:#C084FC;">Cloud & DevOps</span>
 
@@ -92,9 +104,9 @@ Experience building FinTech, EdTech and Retail products for EU and US teams usin
 
 ---
 
-# <span style="color:#E9D5FF;">Current Focus</span>
+# <span style="color:#F5EFFF;">Current Focus</span>
 
-```python id="zjlwmf"
+```python
 class Engineer:
 
     backend = [
@@ -115,6 +127,8 @@ class Engineer:
         "Docker",
         "CI/CD"
     ]
+
+    currently_building = "Scalable Full-Stack Products"
 ```
 
 </td>
@@ -123,13 +137,13 @@ class Engineer:
 
 ---
 
-# <span style="color:#E9D5FF;">GitHub Analytics</span>
+# <span style="color:#F5EFFF;">GitHub Analytics</span>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=opedroleite&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&icon_color=C084FC&title_color=C084FC&text_color=E9D5FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedroleite&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroleite&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000&title_color=C084FC&text_color=E9D5FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroleite&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF"/>
 
 </div>
 
@@ -137,7 +151,7 @@ class Engineer:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=opedroleite&theme=midnight-purple&hide_border=true&background=00000000&ring=C084FC&fire=A855F7&currStreakLabel=E9D5FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=opedroleite&theme=radical&hide_border=true&background=0D1117&stroke=C084FC&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF"/>
 
 </div>
 
@@ -145,25 +159,27 @@ class Engineer:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=opedroleite&theme=tokyo-night&hide_border=true&bg_color=00000000&color=C084FC&line=A855F7&point=E9D5FF"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=opedroleite&bg_color=0D1117&color=C084FC&line=A855F7&point=E9D5FF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# <span style="color:#E9D5FF;">Featured Projects</span>
+# <span style="color:#F5EFFF;">Featured Projects</span>
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ## <span style="color:#C084FC;">Finance Platform</span>
 
 <div style="color:#D8B4FE;">
 
-Production-ready FinTech platform with analytics dashboards, forecasting and scalable API architecture.
+Production-ready FinTech platform with analytics dashboards, forecasting systems and scalable API architecture.
 
 </div>
+
+<br/>
 
 ### Stack
 
@@ -171,7 +187,7 @@ Production-ready FinTech platform with analytics dashboards, forecasting and sca
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ## <span style="color:#C084FC;">AI Workflow System</span>
 
@@ -180,6 +196,8 @@ Production-ready FinTech platform with analytics dashboards, forecasting and sca
 LLM orchestration platform with async processing and scalable integrations.
 
 </div>
+
+<br/>
 
 ### Stack
 
@@ -193,7 +211,7 @@ LLM orchestration platform with async processing and scalable integrations.
 
 <div align="center">
 
-## <span style="color:#E9D5FF;">Certification</span>
+# <span style="color:#F5EFFF;">Certification</span>
 
 <img src="https://img.shields.io/badge/AWS%20Certified%20Developer-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
