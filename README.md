@@ -24,6 +24,8 @@
 
 <div align="center">
 
+<img width="180" src="https://avatars.githubusercontent.com/u/583231?v=4" style="border-radius:50%;" />
+
 # <span style="color:#F5EFFF;">Artur Ahadzhanov</span>
 
 ### <span style="color:#C084FC;">Full-Stack Engineer</span>
@@ -104,7 +106,7 @@ Experience building production-grade platforms for FinTech, EdTech and Retail pr
 
 # <span style="color:#F5EFFF;">Current Focus</span>
 
-```python id="l2a91j"
+```python id="jlwm7u"
 class Engineer:
 
     backend = [
