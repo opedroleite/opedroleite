@@ -24,8 +24,6 @@
 
 <div align="center">
 
-<img width="180" src="https://avatars.githubusercontent.com/u/583231?v=4"/>
-
 # <span style="color:#F5EFFF;">Artur Ahadzhanov</span>
 
 ### <span style="color:#C084FC;">Full-Stack Engineer</span>
@@ -106,7 +104,7 @@ Experience building production-grade platforms for FinTech, EdTech and Retail pr
 
 # <span style="color:#F5EFFF;">Current Focus</span>
 
-```python id="nvv93q"
+```python id="l2a91j"
 class Engineer:
 
     backend = [
@@ -134,36 +132,6 @@ class Engineer:
 </td>
 </tr>
 </table>
-
----
-
-# <span style="color:#F5EFFF;">GitHub Analytics</span>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=opedroleite&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroleite&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=opedroleite&theme=radical&hide_border=true"/>
-
-</div>
-
-<br/>
-
-# <span style="color:#C084FC;">Artur's Contribution Graph</span>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=opedroleite&theme=react-dark&hide_border=true"/>
-
-</div>
 
 ---
 
