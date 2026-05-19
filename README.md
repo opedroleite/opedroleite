@@ -1,153 +1,73 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Artur%20Ahadzhanov&fontSize=42&fontAlignY=40&color=0:0F0F0F,100:2D2D2D&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Artur%20Ahadzhanov&fontSize=44&fontAlignY=38&animation=fadeIn&color=0:2B124C,100:522B5B&fontColor=F4F4F5"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Python+Full-Stack+Developer;FastAPI+%2F+Django+Engineer;React+%2F+Next.js+Developer;AWS+Certified+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=CFA5FF&center=true&vCenter=true&width=700&lines=Python+Full-Stack+Engineer;FastAPI+%2F+Django+Developer;React+%2F+Next.js+Engineer;Building+Scalable+Web+Products"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/AWS-Certified-111111?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/6%2B%20Years-Experience-111111?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Remote-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AWS-Certified-2B124C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/6%2B%20Years-Experience-522B5B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-Remote-CFA5FF?style=for-the-badge&logoColor=black"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+## About
 
-```yaml
-name: Artur Ahadzhanov
+Full-Stack Engineer focused on scalable backend systems, modern frontend architecture, and production-grade web applications.
 
-role: Full-Stack Developer
+Main focus:
 
-focus:
-  - Backend Architecture
-  - High-Load APIs
-  - Scalable Web Products
-  - FinTech Platforms
+* Python / FastAPI / Django
+* React / Next.js / TypeScript
+* PostgreSQL / Redis
+* Docker / AWS / CI/CD
 
-currently_working_with:
-  - Python
-  - FastAPI
-  - Django
-  - React
-  - Next.js
-  - PostgreSQL
-  - Docker
-  - AWS
-```
+Experience across FinTech, EdTech and Retail products for EU and US teams.
 
 ---
 
 <div align="center">
 
-# 🛠 Tech Stack
+## Tech Stack
 
 </div>
 
 <table align="center">
 <tr>
-<td align="center" width="320">
+<td align="center">
 
-### ⚙ Backend
+### Backend
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,mongodb"/>
 
 </td>
 
-<td align="center" width="320">
+<td align="center">
 
-### 🎨 Frontend
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind"/>
 
 </td>
 </tr>
-</table>
 
----
+<tr>
+<td align="center">
 
-<div align="center">
-
-### ☁ Cloud & DevOps
+### Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,gcp,githubactions"/>
 
-</div>
-
----
-
-# 💻 Terminal
-
-```bash
-$ whoami
-Artur Ahadzhanov
-
-$ stack
-Python FastAPI Django React Next.js AWS
-
-$ status
-Open to work
-
-$ focus
-Scalable Full-Stack Products
-```
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=opedroleite&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroleite&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=opedroleite&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-## 💸 Finance Platform
-
-```diff
-+ FastAPI
-+ React
-+ PostgreSQL
-+ Redis
-+ Docker
-```
-
-Production-ready FinTech platform with budgeting, analytics and forecasting tools.
-
 </td>
 
-<td width="50%">
+<td align="center">
 
-## 🤖 AI Workflow System
+### Tools
 
-```diff
-+ Python
-+ OpenAI
-+ Next.js
-+ Celery
-```
-
-LLM workflow orchestration system with async processing and scalable APIs.
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
 
 </td>
 </tr>
@@ -155,16 +75,16 @@ LLM workflow orchestration system with async processing and scalable APIs.
 
 ---
 
-# 💻 Current Stack
+## Current Focus
 
 ```python
-class ArturAhadzhanov:
+class Engineer:
 
     backend = [
-        "Python",
         "FastAPI",
         "Django",
-        "DRF"
+        "REST APIs",
+        "GraphQL"
     ]
 
     frontend = [
@@ -173,13 +93,7 @@ class ArturAhadzhanov:
         "TypeScript"
     ]
 
-    databases = [
-        "PostgreSQL",
-        "Redis",
-        "MongoDB"
-    ]
-
-    cloud = [
+    infrastructure = [
         "AWS",
         "Docker",
         "CI/CD"
@@ -192,9 +106,17 @@ class ArturAhadzhanov:
 
 <div align="center">
 
-# 📈 Contribution Graph
+## GitHub Analytics
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=opedroleite&theme=github-compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=opedroleite&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opedroleite&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=opedroleite&theme=midnight-purple&hide_border=true&background=00000000"/>
 
 </div>
 
@@ -202,9 +124,56 @@ class ArturAhadzhanov:
 
 <div align="center">
 
-# 🏆 Achievements
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=opedroleite&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=opedroleite&theme=onestar&no-frame=true&row=1"/>
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Finance Platform
+
+Production-ready FinTech platform with budgeting systems, analytics dashboards and forecasting tools.
+
+**Stack**
+
+* FastAPI
+* React
+* PostgreSQL
+* Redis
+* Docker
+
+</td>
+
+<td width="50%">
+
+### AI Workflow System
+
+LLM workflow orchestration platform with async processing and scalable API integrations.
+
+**Stack**
+
+* Python
+* OpenAI
+* Next.js
+* Celery
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Certification
+
+<img src="https://img.shields.io/badge/AWS%20Certified%20Developer-2B124C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
 </div>
 
@@ -212,23 +181,13 @@ class ArturAhadzhanov:
 
 <div align="center">
 
-# 🏆 Certifications
-
-<img src="https://img.shields.io/badge/AWS%20Certified-Developer-111111?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌍 Connect
+## Connect
 
 <a href="https://github.com/opedroleite">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="#">
+<a href="https://linkedin.com">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -238,14 +197,6 @@ class ArturAhadzhanov:
 
 <div align="center">
 
-![snake gif](https://github.com/opedroleite/opedroleite/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F0F0F,100:2D2D2D"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:2B124C,100:522B5B"/>
 
 </div>
