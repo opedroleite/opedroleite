@@ -1,16 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Artur%20Ahadzhanov&fontSize=42&fontAlignY=40&color=0:0F0F0F,100:2D2D2D&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=Artur%20Ahadzhanov&fontSize=42&fontAlignY=40&color=0:0F0F0F,100:2D2D2D&fontColor=ffffff"/>
 
-<h3>
-Python / Django / FastAPI · React / Next.js
-</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Python+Full-Stack+Developer;FastAPI+%2F+Django+Engineer;React+%2F+Next.js+Developer;AWS+Certified+Developer"/>
 
-<p>
+<br/>
+
 <img src="https://img.shields.io/badge/AWS-Certified-111111?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/6%2B%20Years-Experience-111111?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20to-Remote-111111?style=for-the-badge"/>
-</p>
 
 </div>
 
@@ -18,7 +16,7 @@ Python / Django / FastAPI · React / Next.js
 
 # ⚡ About Me
 
-```yaml id="l1fz8v"
+```yaml
 name: Artur Ahadzhanov
 
 role: Full-Stack Developer
@@ -54,7 +52,7 @@ currently_working_with:
 
 ### ⚙ Backend
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,mongodb" />
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,mongodb"/>
 
 </td>
 
@@ -62,7 +60,7 @@ currently_working_with:
 
 ### 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind"/>
 
 </td>
 </tr>
@@ -74,9 +72,27 @@ currently_working_with:
 
 ### ☁ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,docker,gcp,githubactions" />
+<img src="https://skillicons.dev/icons?i=aws,docker,gcp,githubactions"/>
 
 </div>
+
+---
+
+# 💻 Terminal
+
+```bash
+$ whoami
+Artur Ahadzhanov
+
+$ stack
+Python FastAPI Django React Next.js AWS
+
+$ status
+Open to work
+
+$ focus
+Scalable Full-Stack Products
+```
 
 ---
 
@@ -92,6 +108,14 @@ currently_working_with:
 
 ---
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=opedroleite&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
 # 🚀 Featured Projects
 
 <table>
@@ -100,7 +124,7 @@ currently_working_with:
 
 ## 💸 Finance Platform
 
-```diff id="w67m3j"
+```diff
 + FastAPI
 + React
 + PostgreSQL
@@ -116,7 +140,7 @@ Production-ready FinTech platform with budgeting, analytics and forecasting tool
 
 ## 🤖 AI Workflow System
 
-```diff id="h3rbz5"
+```diff
 + Python
 + OpenAI
 + Next.js
@@ -133,7 +157,7 @@ LLM workflow orchestration system with async processing and scalable APIs.
 
 # 💻 Current Stack
 
-```python id="4vxjgo"
+```python
 class ArturAhadzhanov:
 
     backend = [
@@ -168,6 +192,26 @@ class ArturAhadzhanov:
 
 <div align="center">
 
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=opedroleite&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=opedroleite&theme=onestar&no-frame=true&row=1"/>
+
+</div>
+
+---
+
+<div align="center">
+
 # 🏆 Certifications
 
 <img src="https://img.shields.io/badge/AWS%20Certified-Developer-111111?style=for-the-badge&logo=amazonaws&logoColor=white"/>
@@ -181,12 +225,20 @@ class ArturAhadzhanov:
 # 🌍 Connect
 
 <a href="https://github.com/opedroleite">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="#">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+![snake gif](https://github.com/opedroleite/opedroleite/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
