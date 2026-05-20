@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:140021,50:4C1D95,100:C084FC&text=Artur%20Ahadzhanov&fontSize=46&fontColor=ffffff&fontAlignY=38&animation=fadeIn"/>
-
+<img src="./artur_github_banner.svg" width="100%" />
 <br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Full-Stack+Engineer;FastAPI+%2F+Django+Developer;React+%2F+Next.js+Engineer;Building+Scalable+Products"/>
