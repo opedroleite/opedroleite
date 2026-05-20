@@ -1,17 +1,18 @@
 <div align="center">
 
 <img src="./artur_github_banner.svg" width="100%" />
+
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Python+Full-Stack+Engineer;FastAPI+%2F+Django+Developer;React+%2F+Next.js+Engineer;Building+Scalable+Products"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Python+Full-Stack+Engineer;FastAPI+%2F+Django+Developer;React+%2F+Next.js+Engineer;Building+Scalable+Products"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AWS-Certified-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-Certified-FFFFFF?style=for-the-badge&logo=amazonaws&logoColor=000000"/>
 
-<img src="https://img.shields.io/badge/6%2B%20Years-Experience-A855F7?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/6%2B%20Years-Experience-E5E5E5?style=for-the-badge&logoColor=000000"/>
 
-<img src="https://img.shields.io/badge/Open%20To-Remote-C084FC?style=for-the-badge&logoColor=140021"/>
+<img src="https://img.shields.io/badge/Open%20To-Remote-F8FAFC?style=for-the-badge&logoColor=000000"/>
 
 </div>
 
@@ -25,9 +26,9 @@
 
 <img width="180" src="https://avatars.githubusercontent.com/u/583231?v=4" style="border-radius:50%;" />
 
-# <span style="color:#F5EFFF;">Artur Ahadzhanov</span>
+# <span style="color:#FFFFFF;">Artur Ahadzhanov</span>
 
-### <span style="color:#C084FC;">Full-Stack Engineer</span>
+### <span style="color:#E5E7EB;">Full-Stack Engineer</span>
 
 </div>
 
@@ -35,17 +36,17 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FastAPI-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=000000"/>
 
-<img src="https://img.shields.io/badge/Django-7C3AED?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-E5E5E5?style=for-the-badge&logo=django&logoColor=000000"/>
 
-<img src="https://img.shields.io/badge/Next.js-A855F7?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-F8FAFC?style=for-the-badge&logo=nextdotjs&logoColor=000000"/>
 
 </div>
 
 ---
 
-### <span style="color:#D8B4FE;">Connect</span>
+### <span style="color:#FFFFFF;">Connect</span>
 
 <p align="left">
 
@@ -63,7 +64,7 @@
 
 <div align="center">
 
-> <span style="color:#C084FC;">Building scalable products with clean architecture.</span>
+> <span style="color:#F3F4F6;">Building scalable products with clean architecture.</span>
 
 </div>
 
@@ -71,9 +72,9 @@
 
 <td width="65%" valign="top">
 
-# <span style="color:#F5EFFF;">About</span>
+# <span style="color:#FFFFFF;">About</span>
 
-<div style="color:#D8B4FE;">
+<div style="color:#E5E7EB;">
 
 Full-Stack Engineer focused on scalable backend systems, high-performance APIs and modern frontend architecture.
 
@@ -83,29 +84,29 @@ Experience building production-grade platforms for FinTech, EdTech and Retail pr
 
 ---
 
-# <span style="color:#F5EFFF;">Tech Stack</span>
+# <span style="color:#FFFFFF;">Tech Stack</span>
 
-### <span style="color:#C084FC;">Backend</span>
+### <span style="color:#E5E7EB;">Backend</span>
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,mongodb"/>
 
 <br/><br/>
 
-### <span style="color:#C084FC;">Frontend</span>
+### <span style="color:#E5E7EB;">Frontend</span>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,redux,tailwind"/>
 
 <br/><br/>
 
-### <span style="color:#C084FC;">Cloud & DevOps</span>
+### <span style="color:#E5E7EB;">Cloud & DevOps</span>
 
 <img src="https://skillicons.dev/icons?i=aws,docker,gcp,githubactions,linux"/>
 
 ---
 
-# <span style="color:#F5EFFF;">Current Focus</span>
+# <span style="color:#FFFFFF;">Current Focus</span>
 
-```python id="jlwm7u"
+```python
 class Engineer:
 
     backend = [
@@ -136,15 +137,15 @@ class Engineer:
 
 ---
 
-# <span style="color:#F5EFFF;">Featured Projects</span>
+# <span style="color:#FFFFFF;">Featured Projects</span>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## <span style="color:#C084FC;">Finance Platform</span>
+## <span style="color:#FFFFFF;">Finance Platform</span>
 
-<div style="color:#D8B4FE;">
+<div style="color:#E5E7EB;">
 
 Production-ready FinTech platform with analytics dashboards, forecasting systems and scalable API architecture.
 
@@ -160,9 +161,9 @@ Production-ready FinTech platform with analytics dashboards, forecasting systems
 
 <td width="50%" valign="top">
 
-## <span style="color:#C084FC;">AI Workflow System</span>
+## <span style="color:#FFFFFF;">AI Workflow System</span>
 
-<div style="color:#D8B4FE;">
+<div style="color:#E5E7EB;">
 
 LLM orchestration platform with async processing and scalable integrations.
 
@@ -182,16 +183,6 @@ LLM orchestration platform with async processing and scalable integrations.
 
 <div align="center">
 
-# <span style="color:#F5EFFF;">Certification</span>
-
-<img src="https://img.shields.io/badge/AWS%20Certified%20Developer-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:140021,50:4C1D95,100:C084FC"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:000000,50:111111,100:FFFFFF"/>
 
 </div>
