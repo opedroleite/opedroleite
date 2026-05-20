@@ -1,0 +1,184 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="1500" height="500">
+  <defs>
+
+    <!-- Sky gradient -->
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#9bafc2"/>
+      <stop offset="30%"  stop-color="#b0c2d4"/>
+      <stop offset="70%"  stop-color="#c8d8e6"/>
+      <stop offset="100%" stop-color="#d4e0ea"/>
+    </linearGradient>
+
+    <!-- Ground gradient -->
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#a8b8c8"/>
+      <stop offset="18%"  stop-color="#b4c2d0"/>
+      <stop offset="55%"  stop-color="#c0ccd8"/>
+      <stop offset="100%" stop-color="#ccd4de"/>
+    </linearGradient>
+
+    <!-- Fog gradient -->
+    <linearGradient id="fog" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#d4e4f0" stop-opacity="0"/>
+      <stop offset="40%"  stop-color="#d4e4f0" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#d4e4f0" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Vignette -->
+    <radialGradient id="vignette" cx="50%" cy="50%" r="80%">
+      <stop offset="30%" stop-color="rgba(0,0,0,0)"/>
+      <stop offset="100%" stop-color="rgba(20,40,60,0.18)"/>
+    </radialGradient>
+
+    <!-- Paper grain filter -->
+    <filter id="grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix type="saturate" values="0" in="noise" result="grayNoise"/>
+      <feBlend in="SourceGraphic" in2="grayNoise" mode="multiply" result="blended"/>
+      <feComponentTransfer in="blended">
+        <feFuncR type="linear" slope="1.04"/>
+        <feFuncG type="linear" slope="1.04"/>
+        <feFuncB type="linear" slope="1.04"/>
+      </feComponentTransfer>
+    </filter>
+
+    <!-- Blur for clouds -->
+    <filter id="cloudBlur">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+
+    <!-- Hill blur -->
+    <filter id="hillBlur">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+
+  </defs>
+
+  <!-- ── SKY ── -->
+  <rect width="1500" height="310" fill="url(#sky)"/>
+
+  <!-- Clouds -->
+  <g filter="url(#cloudBlur)">
+    <ellipse cx="60"  cy="30"  rx="300" ry="55"  fill="#e8f0f8" opacity="0.12"/>
+    <ellipse cx="420" cy="55"  rx="260" ry="45"  fill="#e8f0f8" opacity="0.10"/>
+    <ellipse cx="750" cy="20"  rx="380" ry="65"  fill="#e8f0f8" opacity="0.09"/>
+    <ellipse cx="1100" cy="40" rx="280" ry="50"  fill="#e8f0f8" opacity="0.11"/>
+    <ellipse cx="1350" cy="70" rx="200" ry="40"  fill="#e8f0f8" opacity="0.08"/>
+    <ellipse cx="200" cy="110" rx="340" ry="50"  fill="#e8f0f8" opacity="0.07"/>
+    <ellipse cx="900" cy="90"  rx="420" ry="60"  fill="#e8f0f8" opacity="0.08"/>
+  </g>
+
+  <!-- ── GROUND ── -->
+  <rect y="300" width="1500" height="200" fill="url(#ground)"/>
+
+  <!-- Shimmer bands -->
+  <rect y="310" width="1500" height="9" fill="#e8f0f8" opacity="0.06"/>
+  <rect y="332" width="1500" height="9" fill="#e8f0f8" opacity="0.06"/>
+  <rect y="354" width="1500" height="9" fill="#e8f0f8" opacity="0.06"/>
+  <rect y="376" width="1500" height="9" fill="#e8f0f8" opacity="0.06"/>
+  <rect y="398" width="1500" height="9" fill="#e8f0f8" opacity="0.06"/>
+
+  <!-- ── HILLS ── -->
+  <!-- Right hill -->
+  <path d="M1080,310 C1170,190 1320,165 1440,210 C1530,250 1620,290 1725,310 L1500,310 L1500,500 L1080,500 Z"
+        fill="#8090a8" opacity="0.38" filter="url(#hillBlur)"/>
+
+  <!-- Left hill (faint) -->
+  <path d="M-10,310 C60,250 180,230 300,280 C360,300 420,310 525,310 L-10,310 Z"
+        fill="#7888a0" opacity="0.20" filter="url(#hillBlur)"/>
+
+  <!-- ── FOG / HORIZON ── -->
+  <rect y="275" width="1500" height="65" fill="url(#fog)"/>
+
+  <!-- ── FIGURE (cx=465, cy=306) ── -->
+  <g transform="translate(465,306)">
+    <!-- Legs (teal) -->
+    <line x1="-2" y1="14" x2="-8" y2="28"  stroke="#2a7a88" stroke-width="5" stroke-linecap="round"/>
+    <line x1="4"  y1="14" x2="12" y2="26"  stroke="#2a7a88" stroke-width="5" stroke-linecap="round"/>
+
+    <!-- Skirt / body (dark navy) -->
+    <path d="M-2,-38 C-14,-20 -18,5 -14,14 C-6,18 6,18 14,14 C18,5 14,-20 2,-38 Z"
+          fill="#1a2535"/>
+
+    <!-- Bag (teal) -->
+    <rect x="-14" y="-22" width="11" height="14" rx="2" fill="#2a7a88"/>
+
+    <!-- Torso (rust) -->
+    <ellipse cx="0" cy="-42" rx="8" ry="11" fill="#c0552a"/>
+
+    <!-- Head -->
+    <ellipse cx="0" cy="-54" rx="7" ry="7" fill="#e8c080"/>
+
+    <!-- Hat -->
+    <ellipse cx="1" cy="-58" rx="11" ry="4" fill="#c8980a" transform="rotate(-8.6,1,-58)"/>
+
+    <!-- Hat ribbon -->
+    <path d="M10,-58 C20,-52 22,-46 18,-42" stroke="#90b840" stroke-width="2" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- ── GRAIN OVERLAY ── -->
+  <rect width="1500" height="500" fill="transparent" filter="url(#grain)" opacity="0.35"/>
+
+  <!-- ── VIGNETTE ── -->
+  <rect width="1500" height="500" fill="url(#vignette)"/>
+
+  <!-- ── DIVIDER LINE ── -->
+  <line x1="570" y1="60" x2="570" y2="440"
+        stroke="#8090a8" stroke-width="1" stroke-dasharray="4,8" opacity="0.18"/>
+
+  <!-- Accent dots -->
+  <circle cx="607" cy="125" r="3" fill="#2a7a88" opacity="0.5"/>
+  <circle cx="607" cy="150" r="3" fill="#2a7a88" opacity="0.5"/>
+  <circle cx="607" cy="175" r="3" fill="#2a7a88" opacity="0.5"/>
+
+  <!-- ── TEXT ── -->
+  <!-- Name -->
+  <text x="630" y="195"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="68" font-weight="bold"
+        fill="#2c3e52"
+        filter="drop-shadow(2px 2px 6px rgba(100,130,160,0.25))">Artur</text>
+
+  <text x="630" y="277"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="68" font-weight="bold"
+        fill="#2c3e52"
+        filter="drop-shadow(2px 2px 6px rgba(100,130,160,0.25))">Ahadzhanov</text>
+
+  <!-- Title -->
+  <text x="632" y="340"
+        font-family="Georgia, serif"
+        font-size="22" font-weight="300"
+        letter-spacing="4"
+        fill="#4a6070">FULL STACK DEVELOPER</text>
+
+  <!-- Years badge -->
+  <rect x="632" y="356" width="88" height="28" rx="14"
+        fill="#2a7a88" fill-opacity="0.13"/>
+  <text x="645" y="375"
+        font-family="'Courier New', monospace"
+        font-size="14" font-weight="600"
+        fill="#2a7a88">6+ years</text>
+
+  <!-- Tech chips -->
+  <!-- Python -->
+  <rect x="630" y="400" width="74" height="24" rx="12"
+        fill="rgba(44,62,82,0.10)" stroke="rgba(44,62,82,0.22)" stroke-width="1"/>
+  <text x="643" y="416" font-family="'Courier New', monospace" font-size="13" font-weight="500" fill="#2c3e52">Python</text>
+
+  <!-- Django -->
+  <rect x="714" y="400" width="70" height="24" rx="12"
+        fill="rgba(44,62,82,0.10)" stroke="rgba(44,62,82,0.22)" stroke-width="1"/>
+  <text x="726" y="416" font-family="'Courier New', monospace" font-size="13" font-weight="500" fill="#2c3e52">Django</text>
+
+  <!-- FastAPI -->
+  <rect x="794" y="400" width="74" height="24" rx="12"
+        fill="rgba(44,62,82,0.10)" stroke="rgba(44,62,82,0.22)" stroke-width="1"/>
+  <text x="805" y="416" font-family="'Courier New', monospace" font-size="13" font-weight="500" fill="#2c3e52">FastAPI</text>
+
+  <!-- React -->
+  <rect x="878" y="400" width="62" height="24" rx="12"
+        fill="rgba(44,62,82,0.10)" stroke="rgba(44,62,82,0.22)" stroke-width="1"/>
+  <text x="891" y="416" font-family="'Courier New', monospace" font-size="13" font-weight="500" fill="#2c3e52">React</text>
+
+</svg>
